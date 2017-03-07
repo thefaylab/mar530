@@ -2,7 +2,7 @@
 
 ###MAR530: Ecosystem Based Fisheres Management
 ###Spring semester 2015
-(course will next be taught spring semester 2016)
+(course will next be taught spring semester 2017)
 
 ####Instructor: Gavin Fay (`gfay@umassd.edu`)
 
