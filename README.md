@@ -6,4 +6,4 @@
 
 ####Instructor: Gavin Fay (`gfay@umassd.edu`)
 
-####For information and the syllabus open `MAR530_syllabus_spring2015.pdf`
+####For information and the syllabus open `MAR530_syllabus_spring2017_20170303.pdf`
